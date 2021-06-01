@@ -1,0 +1,4 @@
+Nicolas Donato - Cambiar texto cuando pase el mouse
+Rodrigo - cómo hacer que los videojuegos de makecode no tengan audio
+
+Matías Nicolas - nivel 12 Froggy

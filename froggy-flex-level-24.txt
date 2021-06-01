@@ -1,0 +1,11 @@
+Gianfranco:
+flex-wrap: wrap-reverse; flex-direction: column-reverse;
+align-items: flex-end;
+justify-content: center;
+
+
+Funciona:
+flex-wrap: wrap-reverse;flex-direction: column-reverse;
+align-items: center
+justify-content: center;
+align-content: space-between;
